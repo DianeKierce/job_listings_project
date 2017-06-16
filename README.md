@@ -2,7 +2,7 @@
 Acquiring data set of job listings and analyzing to predict salary, cluster into job categories, and figure out how Amazon listings differ from others
 
 
-## Executive Summary
+## Technical Summary
 
 ### Data Acquisition and Preparation
 I used the indeed.com API to obtain the data set for this project. Using the search terms "data scientist," "data analyst," "data engineer," "business intelligence," and "machine learning," I was able to download 1960 unique job listings for the greater Seattle area that were current as of June 1, 2017. On that date I was also able to obtain the following average salary estimates from indeed.com for each of those search terms:
