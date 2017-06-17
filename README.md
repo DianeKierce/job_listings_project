@@ -15,7 +15,7 @@ I used the indeed.com API to obtain the data set for this project. Using the sea
 | business intelligence      | \$ 142,139      |
 | machine learning | \$ 147,173      |
 
-(See the indeed_api_Diane iPython Notebook for the code used for data collection via the Indeed.com API.)
+(See the indeed_api_data_acquisition iPython Notebook for the code used for data collection via the Indeed.com API.)
 
 From this data set, I isolated the useful features: city, company name, job title, and a one to two sentence "snippet" description of the job.
 
